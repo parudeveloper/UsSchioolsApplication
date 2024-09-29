@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">USSchioolsApplication</string>
+    <string name="school_name">School Name</string>
+    <string name="location">Location</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="website_url">Website URL</string>
+</resources>
